@@ -20,7 +20,7 @@ public class Centinela {
         // TODO code application logic here
         
         //primero poder ingresar palabras por pantalla
-        Scanner dataEntrante = new Scanner(System.in);
+        /*Scanner dataEntrante = new Scanner(System.in);
         
         boolean salir = false;
         //mostrar por pantalla las palabras ingresadas
@@ -34,11 +34,13 @@ public class Centinela {
                 salir = true;
             }
         }*/
-        String palabra = ""; 
+        /*String palabra = ""; 
          while (!palabra.equals("salir")) {
              palabra = dataEntrante.nextLine();
              System.out.println("la palabra es: " + palabra);
         }
+        */
+        
     }
     
 }
